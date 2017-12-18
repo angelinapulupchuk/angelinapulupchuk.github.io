@@ -1,0 +1,38 @@
+
+p{  
+	clear: both;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0rem;
+}
+.section1{
+	font-size: 13px;
+    font-family: Arial,'Arial Unicode MS',Helvetica,sans-serif;
+    text-align: center;
+}
+.headlinecont{
+	margin-top:2.2rem;
+	font-size: 1.7rem;
+	margin-bottom: 1rem;
+}
+.map{
+	margin-left: -45px;
+
+}
+.map-inner{
+	width: 1006px;
+	border: 3px solid #F5F5F5;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map-pic{
+	width: 1000px; 
+	height:400px;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-right: 3px;
+}
+
+
